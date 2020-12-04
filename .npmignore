@@ -1,0 +1,9 @@
+src/tests
+dist/tests
+*.js.map
+src
+tsconfig.json
+jest.config.js
+tslint.json
+.eslint*
+.vscode
